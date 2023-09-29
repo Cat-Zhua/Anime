@@ -11,7 +11,7 @@
 
 ## 👀 下载
 
-- [点我下载漫画猫](https://github.com/Cat-Zhua/Anime_Cat/releases)
+- [点我下载漫画猫](https://github.com/Cat-Zhua/Anime/releases)
 
 ## 🎉 功能
 - 主页
